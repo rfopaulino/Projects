@@ -1,0 +1,22 @@
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\AvaliacaoMazzaFC\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\Rafael\Documents\GitHub\Projects\ProjectCoreAngular\Common\obj\Debug\netcoreapp2.1\Common.pdb

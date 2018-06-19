@@ -1,0 +1,36 @@
+<header>
+  <nav class="navbar navbar-default navbar-static-top">
+    <div class="container-fluid">
+
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" *ngIf="isLoggedIn$ | async">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" [routerLink]="['/home']">PROJECT CORE ANGULAR</a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" *ngIf="isLoggedIn$ | async">
+        <ul class="nav navbar-nav">
+          <li routerLinkActive="active"><a [routerLink]="['/usuario']"><span class="fa fa-user padding-icon-menu"></span>Usuários</a></li>
+          <li routerLinkActive="active"><a [routerLink]="['/medico']"><span class="fa fa-user-md padding-icon-menu"></span>Médicos</a></li>
+          <li routerLinkActive="active"><a [routerLink]="['/paciente']"><span class="fa fa-users padding-icon-menu"></span>Pacientes</a></li>
+          <li routerLinkActive="active"><a [routerLink]="['/agendamento']"><span class="fa fa-calendar padding-icon-menu"></span>Agendamentos</a></li>
+          <li routerLinkActive="active"><a [routerLink]="['/cid']"><span class="fa fa-address-book-o padding-icon-menu"></span>CID</a></li>
+          <li routerLinkActive="active"><a [routerLink]="['/atestado']"><span class="fa fa-file-text padding-icon-menu"></span>Atestado</a></li>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Conta <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a (click)="logout()">Sair</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
